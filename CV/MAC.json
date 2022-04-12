@@ -1,0 +1,152 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Dario",
+      "surnames": "Rodriguez Gonzalez",
+      "description": "Soy un apasionado de la tecnología, eso me ha llevado a desempeñar labores de desarrolador front-end, desarrollador back-end, DevOps y en ocasiones ciertas tareas sobre arquitectura. Todo esto me proporciona una amplia visión de todo el ciclo de desarrollo, pudiendo así tomar mejores decisiones en lo que en realidad me apasiona: el desarrollo back-end.\n\nMi lenguaje preferido es Typescript, por lo tanto NodeJS es donde me siento más cómodo, aunque también tengo gran experiencia en Java y Python (actualmente estoy aprendiendo Go en mi tiempo libre).\n\nEn los últimos cuatro años he estado trabajando en proyectos internacionales, la mayoría de ellos con equipos distribuidos siguiendo una metodología ágil (Scrum sobre todo). En todos ellos, el idioma común es el ingles, por tanto tengo un buen nivel tanto oral como escrito. Como ejemplo, mi proyecto actual es para una empresa americana de ropa deportiva y mi equipo esta formado por colaboradores en distintas ciudades de España como colaboradores en Bélgica y Holanda.\n\nUna de mis contribuciones más destacadas fue al framework interno que usa mi actual compañía: devonfw.com. En el he diseñado la forma en al que todos los proyectos deben abordar las estrategias CI/CD. He hecho integraciones del framework con otras plataformas internas y de lo que me siento más orgullo es de haber diseñado la forma estandarizada de abordar los proyectos NodeJS (devon4node). Destacar que esta forma de abordar proyectos NodeJS se ha utilizado con éxito en diferentes proyectos de una forma satisfactoria.\n\nActualmente mi rol es más de DevOps: automatización de procesos, diseñar e implementar la infraestructura para AWS aplicando IaC con terraform, gestionar el cluster de Kubernets (EKS) y diseñar toda la estrategia de despliegues utilizando helm charts con argoCD. Esto lo compagino con desarrollo de APIs en Java utilizando Spring framework. Como apunte, este tipo de labores no son las que me gusta desempeñar el 100% de mi tiempo, ya que como mencione antes lo que más me gusta es el desarrollo back-end, pero mis inquietudes me han llevado a tener conocimientos de todo esto, y se han aprovechado de esto para colocarme en este rol.\n\nLo que me gustaría encontrar es un proyecto en el cual pueda poner a prueba mis habilidades y, sobre todo, seguir aprendiendo y mejorando todos los días.\n\nPor último hablar de mis aficiones, además de las comunes: videojuegos, series, etc. lo que más me gusta es aprender sobre tecnología. Pierdo más horas de las que me gustaría aprendiendo sobre nuevas tecnologías que no tienen nada que ver con lo que hago en mi día a día, como también mejorando mis habilidades en lo que ya se y domino. Nunca estoy contento con mis conocimientos y siempre trabajo duro (incluso en mi tiempo libre :S) para llegar a ser el mejor en lo que hago."
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/dario-rodriguez-gonzalez-b65129149/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/dario-rodriguez"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/lllllMrPKlllll"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS-(to delete)",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Helm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "EKS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/dario-rodriguez-gonzalez-b65129149/"
+        }
+      ]
+    }
+  }
+}
