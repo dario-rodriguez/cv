@@ -25,6 +25,21 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Capgemini"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2017-09-01"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
