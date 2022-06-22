@@ -29,12 +29,43 @@
     "jobs": [
       {
         "organization": {
-          "name": "Capgemini"
+          "name": "Capgemini",
+          "URL": "https://www.capgemini.com/"
         },
         "roles": [
           {
             "name": "Full-Stack developer",
-            "startDate": "2017-09-01"
+            "startDate": "2017-09-01",
+            "competences": [
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
           }
         ]
       }
