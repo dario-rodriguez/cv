@@ -196,6 +196,17 @@
           "description": "La Ingeniería Informática es clave en el diseño y producción de proyectos que mejoran la calidad de vida como son la banca electrónica, el comercio online, los medios de transporte avanzados y la domótica. La Ingeniería Informática forma profesionales preparados/as para dirigir y coordinar equipos que estudien las necesidades de empresas y particulares y desarrollen soluciones a todos los niveles. El plan de estudios contempla 48 ECTS para especialización agrupados en dos itinerarios: uno en la Escuela Politécnica Superior de Alcoy y el otro en la Escola Tècnica Superior d'Enginyeria Informàtica.",
           "URL": "http://www.upv.es/"
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Administración de Sistemas Informáticos en Red",
+        "startDate": "2009-09-01",
+        "finishDate": "2011-06-01",
+        "institution": {
+          "name": "IES de Rodeira",
+          "URL": "https://www.edu.xunta.gal/centros/iesderodeira/"
+        }
       }
     ]
   },
