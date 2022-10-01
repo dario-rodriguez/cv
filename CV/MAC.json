@@ -301,6 +301,10 @@
         {
           "name": "JAVA",
           "type": "technology"
+        },
+        {
+          "name": "Oracle",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
