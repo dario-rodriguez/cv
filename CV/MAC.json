@@ -228,6 +228,12 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -351,6 +357,16 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "nestJS",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Lo que estoy buscando es un proyecto, preferiblemente NodeJS, en el cual pueda demostrar y mejorar mi habilidades. Sobre todo en proyectos que tengan arquitectura microservicios, CQRS, arquitectura dirigida por eventos, etc. Además, busco proyectos en los cuales los tests son importantes, por favor no más ¨no hagas tests porque no hay tiempo¨. "
   }
 }
