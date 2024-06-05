@@ -1,23 +1,27 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Dario",
       "surnames": "Rodriguez Gonzalez",
       "title": "Software Engineer",
-      "description": "",
+      "description": "Soy un apasionado de la tecnología, eso me ha llevado a desempeñar labores de desarrolador front-end, desarrollador back-end, DevOps y en ocasiones ciertas tareas sobre arquitectura. Todo esto me proporciona una amplia visión de todo el ciclo de desarrollo, pudiendo así tomar mejores decisiones en lo que en realidad me apasiona: el desarrollo back-end.\n\nMi lenguaje preferido es Typescript, por lo tanto NodeJS es donde me siento más cómodo, aunque también tengo gran experiencia en Java y Python (actualmente estoy aprendiendo Go en mi tiempo libre).\n\nEn los últimos cuatro años he estado trabajando en proyectos internacionales, la mayoría de ellos con equipos distribuidos siguiendo una metodología ágil (Scrum sobre todo). En todos ellos, el idioma común es el ingles, por tanto tengo un buen nivel tanto oral como escrito. Como ejemplo, mi proyecto actual es para una empresa americana de ropa deportiva y mi equipo esta formado por colaboradores en distintas ciudades de España como colaboradores en Bélgica y Holanda.\n\nUna de mis contribuciones más destacadas fue al framework interno que usa mi actual compañía: devonfw.com. En el he diseñado la forma en al que todos los proyectos deben abordar las estrategias CI/CD. He hecho integraciones del framework con otras plataformas internas y de lo que me siento más orgullo es de haber diseñado la forma estandarizada de abordar los proyectos NodeJS (devon4node). Destacar que esta forma de abordar proyectos NodeJS se ha utilizado con éxito en diferentes proyectos de una forma satisfactoria.\n\nActualmente mi rol es más de DevOps: automatización de procesos, diseñar e implementar la infraestructura para AWS aplicando IaC con terraform, gestionar el cluster de Kubernets (EKS) y diseñar toda la estrategia de despliegues utilizando helm charts con argoCD. Esto lo compagino con desarrollo de APIs en Java utilizando Spring framework. Como apunte, este tipo de labores no son las que me gusta desempeñar el 100% de mi tiempo, ya que como mencione antes lo que más me gusta es el desarrollo back-end, pero mis inquietudes me han llevado a tener conocimientos de todo esto, y se han aprovechado de esto para colocarme en este rol.\n\nLo que me gustaría encontrar es un proyecto en el cual pueda poner a prueba mis habilidades y, sobre todo, seguir aprendiendo y mejorando todos los días.\n\nPor último hablar de mis aficiones, además de las comunes: videojuegos, series, etc. lo que más me gusta es aprender sobre tecnología. Pierdo más horas de las que me gustaría aprendiendo sobre nuevas tecnologías que no tienen nada que ver con lo que hago en mi día a día, como también mejorando mis habilidades en lo que ya se y domino. Nunca estoy contento con mis conocimientos y siempre trabajo duro (incluso en mi tiempo libre :S) para llegar a ser el mejor en lo que hago.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/dario-rodriguez-gonzalez-b65129149/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/dario-rodriguez"
@@ -28,11 +32,8 @@
       },
       {
         "type": "other",
-        "URL": "https://www.dario-rodriguez.me/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/dario-rodriguez-gonzalez-b65129149/"
+        "URL": "https://www.dario-rodriguez.me/",
+        "description": "Web Personal"
       }
     ]
   },
@@ -42,8 +43,8 @@
         "organization": {
           "name": "Capgemini",
           "image": {
-            "alt": "Capgemini-Emblem.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/01/00481d0c-81e7-4ed3-842b-cb8393973c4f_capgemini-emblem.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/01/00481d0c-81e7-4ed3-842b-cb8393973c4f_capgemini-emblem.png",
+            "alt": "Capgemini-Emblem.png"
           },
           "URL": "https://www.capgemini.com/"
         },
@@ -51,11 +52,6 @@
           {
             "name": "Software Engineer ",
             "startDate": "2017-09-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Helm",
@@ -102,66 +98,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Helm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
+          "name": "API",
           "type": "technology"
         }
       },
@@ -173,31 +123,31 @@
       },
       {
         "skill": {
+          "name": "AWS EKS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Ansible",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jenkins",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Helm",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "EKS",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -209,7 +159,19 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -221,13 +183,49 @@
       },
       {
         "skill": {
-          "name": "Sass",
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -240,11 +238,10 @@
         "startDate": "2022-09-01",
         "institution": {
           "name": "Contentstack",
-          "description": "",
           "URL": "https://catalysts.novoed.com/#!/courses/poc-certification/statements/2821068",
           "image": {
-            "alt": "ext_j5caua.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/01/32c73fc2-cfd5-40a7-a5ae-a42d6de55069_ext_j5caua.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/01/32c73fc2-cfd5-40a7-a5ae-a42d6de55069_ext_j5caua.jpg",
+            "alt": "ext_j5caua.jpg"
           }
         }
       },
@@ -253,23 +250,42 @@
         "degreeAchieved": true,
         "name": "Grado en Ingeniería Informática",
         "startDate": "2014-09-01",
-        "finishDate": "2017-07-01",
         "institution": {
           "name": "Universidad Politécnica de Valencia",
           "description": "La Ingeniería Informática es clave en el diseño y producción de proyectos que mejoran la calidad de vida como son la banca electrónica, el comercio online, los medios de transporte avanzados y la domótica. La Ingeniería Informática forma profesionales preparados/as para dirigir y coordinar equipos que estudien las necesidades de empresas y particulares y desarrollen soluciones a todos los niveles. El plan de estudios contempla 48 ECTS para especialización agrupados en dos itinerarios: uno en la Escuela Politécnica Superior de Alcoy y el otro en la Escola Tècnica Superior d'Enginyeria Informàtica.",
           "URL": "http://www.upv.es/"
-        }
+        },
+        "finishDate": "2017-07-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Superior en Administración de Sistemas Informáticos en Red",
         "startDate": "2009-09-01",
-        "finishDate": "2011-06-01",
         "institution": {
           "name": "IES de Rodeira",
-          "description": "",
           "URL": "https://www.edu.xunta.gal/centros/iesderodeira/"
+        },
+        "finishDate": "2011-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento creativo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visión crítica",
+          "type": "practice"
         }
       }
     ]
@@ -278,9 +294,20 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/dario-rodriguez-gonzalez-b65129149/"
+          "URL": "https://www.linkedin.com/in/dario-rodriguez-gonzalez-b65129149/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/dario-rodriguez",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/lllllMrPKlllll",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "dario.rg.1990@gmail.com"
       ]
     },
     "preferences": {
@@ -308,7 +335,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -322,5 +349,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Lo que estoy buscando es un proyecto, preferiblemente NodeJS, en el cual pueda demostrar y mejorar mi habilidades. Sobre todo en proyectos que tengan arquitectura microservicios, CQRS, arquitectura dirigida por eventos, etc. Además, busco proyectos en los cuales los tests son importantes, por favor no más ¨no hagas tests porque no hay tiempo¨. "
   }
 }
