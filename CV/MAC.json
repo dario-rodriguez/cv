@@ -217,126 +217,126 @@
           "name": "Node.js",
           "type": "technology"
         },
-        "level": "Expert"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "TypeScript",
           "type": "technology"
         },
-        "level": "Expert"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "NestJS",
           "type": "technology"
         },
-        "level": "Expert"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "Microservices Architecture",
           "type": "technology"
         },
-        "level": "Expert"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "Event-Driven Architecture",
           "type": "technology"
         },
-        "level": "Expert"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "CQRS",
           "type": "technology"
         },
-        "level": "Expert"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "AWS",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "Kubernetes",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "DevOps",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "Terraform",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "high"
       },
       {
         "skill": {
           "name": "CI/CD",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "Java",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "high"
       },
       {
         "skill": {
           "name": "Spring Framework",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "high"
       },
       {
         "skill": {
           "name": "Python",
           "type": "technology"
         },
-        "level": "Intermediate"
+        "level": "intermediate"
       },
       {
         "skill": {
           "name": "MongoDB",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "PostgreSQL",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "Docker",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "expert"
       },
       {
         "skill": {
           "name": "Test-Driven Development",
           "type": "technology"
         },
-        "level": "Advanced"
+        "level": "expert"
       }
     ],
     "studies": [
