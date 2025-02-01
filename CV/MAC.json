@@ -387,12 +387,6 @@
       },
       {
         "skill": {
-          "name": "Comunicación",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Resolución de Problemas",
           "type": "practice"
         }
@@ -400,18 +394,6 @@
       {
         "skill": {
           "name": "Pensamiento Creativo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trabajo en Equipo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mentoría",
           "type": "practice"
         }
       }
