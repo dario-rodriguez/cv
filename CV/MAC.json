@@ -55,73 +55,6 @@
             "challenges": [
               {
                 "description": "Lideré el diseño e implementación de la arquitectura de microservicios para una plataforma de e-commerce de alto rendimiento"
-              },
-              {
-                "description": "Diseñé y desarrollé devon4node, un framework Node.js adoptado por toda la organización"
-              },
-              {
-                "description": "Implementé la estrategia de CI/CD y DevOps para múltiples proyectos internacionales"
-              }
-            ],
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "NestJS",
-                "type": "technology"
-              },
-              {
-                "name": "Microservices",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              }
-            ]
-          },
-          {
-            "name": "DevOps Engineer",
-            "startDate": "2019-03-01",
-            "finishDate": "2021-06-01",
-            "challenges": [
-              {
-                "description": "Diseño e implementación de infraestructura cloud en AWS usando Infrastructure as Code con Terraform"
-              },
-              {
-                "description": "Gestión y optimización de clusters Kubernetes (EKS) para múltiples proyectos"
-              },
-              {
-                "description": "Implementación de pipelines de CI/CD automatizados usando Jenkins, Helm y ArgoCD"
-              },
-              {
-                "description": "Desarrollo de soluciones para monitorización y observabilidad de microservicios"
               }
             ],
             "competences": [
@@ -130,19 +63,11 @@
                 "type": "technology"
               },
               {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
                 "name": "Docker",
                 "type": "technology"
               },
               {
-                "name": "Jenkins",
+                "name": "GitHub Actions",
                 "type": "technology"
               },
               {
@@ -150,38 +75,27 @@
                 "type": "technology"
               },
               {
-                "name": "ArgoCD",
+                "name": "Java",
                 "type": "technology"
               },
               {
-                "name": "Infrastructure as Code",
+                "name": "Jenkins",
                 "type": "technology"
               },
               {
-                "name": "GitHub Actions",
+                "name": "Kubernetes",
                 "type": "technology"
-              }
-            ]
-          },
-          {
-            "name": "Software Engineer",
-            "startDate": "2017-09-01",
-            "finishDate": "2019-03-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de APIs RESTful y aplicaciones web utilizando Node.js y Java"
               },
               {
-                "description": "Implementación de soluciones cloud-native en AWS"
-              }
-            ],
-            "competences": [
+                "name": "MongoDB",
+                "type": "technology"
+              },
               {
                 "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Java",
+                "name": "PostgreSQL",
                 "type": "technology"
               },
               {
@@ -189,7 +103,11 @@
                 "type": "technology"
               },
               {
-                "name": "AWS",
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -214,129 +132,75 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Node.js",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "NestJS",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "Microservices Architecture",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "Event-Driven Architecture",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "CQRS",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
           "name": "AWS",
           "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "DevOps",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        },
-        "level": "high"
-      },
-      {
-        "skill": {
-          "name": "CI/CD",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "Java",
-          "type": "technology"
-        },
-        "level": "high"
-      },
-      {
-        "skill": {
-          "name": "Spring Framework",
-          "type": "technology"
-        },
-        "level": "high"
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        },
-        "level": "intermediate"
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        },
-        "level": "expert"
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        },
-        "level": "expert"
+        }
       },
       {
         "skill": {
           "name": "Docker",
           "type": "technology"
-        },
-        "level": "expert"
+        }
       },
       {
         "skill": {
-          "name": "Test-Driven Development",
+          "name": "Java",
           "type": "technology"
-        },
-        "level": "expert"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -377,26 +241,6 @@
         },
         "finishDate": "2011-06-01"
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Liderazgo Técnico",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Resolución de Problemas",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pensamiento Creativo",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
@@ -414,37 +258,16 @@
           "URL": "https://twitter.com/lllllMrPKlllll",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "dario.rg.1990@gmail.com"
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Node.js",
-          "type": "technology"
-        },
-        {
           "name": "TypeScript",
-          "type": "technology"
-        },
-        {
-          "name": "Microservices",
-          "type": "technology"
-        },
-        {
-          "name": "Cloud Architecture",
-          "type": "technology"
-        },
-        {
-          "name": "Event-Driven Architecture",
           "type": "technology"
         }
       ],
       "preferredRoles": [
-        "Senior Backend Developer",
-        "Solutions Architect",
         "Tech Lead"
       ]
     },
@@ -453,7 +276,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
         "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       },
       {
