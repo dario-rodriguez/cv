@@ -254,6 +254,12 @@
           "name": "Liderazgo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Visión crítica",
+          "type": "practice"
+        }
       }
     ]
   },
