@@ -248,6 +248,12 @@
           "name": "Adaptabilidad al cambio",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
       }
     ]
   },
