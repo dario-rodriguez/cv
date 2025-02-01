@@ -8,8 +8,8 @@
     "profile": {
       "name": "Dario",
       "surnames": "Rodriguez Gonzalez",
-      "title": "Senior Software Engineer & Solutions Architect",
-      "description": "Soy un ingeniero de software apasionado por la tecnología con más de 8 años de experiencia, especializado en desarrollo back-end y arquitectura de software. Mi trayectoria profesional me ha permitido adquirir una visión integral del ciclo de desarrollo, habiendo desempeñado roles como desarrollador full-stack, DevOps y arquitecto de soluciones.\n\nMi expertise técnico se centra principalmente en TypeScript y Node.js, donde he liderado el desarrollo de aplicaciones empresariales complejas y escalables. También cuento con sólida experiencia en Java, Python. Mi enfoque se basa en construir soluciones robustas aplicando patrones de diseño modernos como arquitecturas de microservicios, CQRS y Event-Driven Architecture.\n\nUna de mis contribuciones más destacadas ha sido al framework devonfw.com, donde diseñé e implementé la estrategia de CI/CD adoptada por toda la organización. Además, lideré la creación de devon4node, estableciendo las mejores prácticas y estándares para proyectos Node.js que han sido implementados exitosamente en múltiples proyectos empresariales.\n\nEn los últimos años, he trabajado en proyectos internacionales para clientes de primer nivel, incluyendo una reconocida marca de ropa deportiva americana, liderando equipos distribuidos en España, Bélgica, Holanda y Alemania. Esta experiencia me ha permitido desarrollar excelentes habilidades de comunicación en inglés y una gran capacidad para trabajar en entornos multiculturales bajo metodologías ágiles.\n\nMi experiencia en DevOps complementa mi perfil técnico, habiendo diseñado e implementado infraestructuras cloud en AWS utilizando IaC con Terraform, gestionando clusters de Kubernetes (EKS) y estableciendo pipelines de despliegue automatizados con Helm y ArgoCD. Sin embargo, mi verdadera pasión reside en el desarrollo back-end y la arquitectura de software, donde busco constantemente aplicar las mejores prácticas y patrones para crear soluciones elegantes y mantenibles.\n\nSoy un firme defensor del desarrollo basado en pruebas (TDD) y considero que la calidad del código y las pruebas automatizadas son fundamentales para el éxito de cualquier proyecto. Mi compromiso con la excelencia técnica me impulsa a mantenerme constantemente actualizado con las últimas tendencias y mejores prácticas en el desarrollo de software.\n\nBusco unirme a un equipo donde pueda aplicar mi experiencia en el desarrollo de soluciones back-end innovadoras, preferiblemente en el ecosistema Node.js, y donde la calidad del código y las pruebas sean una prioridad. Me entusiasma especialmente la posibilidad de trabajar en proyectos que implementen arquitecturas modernas y escalables.\n\nFuera del ámbito profesional, además de disfrutar de videojuegos y series, dedico gran parte de mi tiempo libre a explorar nuevas tecnologías y mejorar mis habilidades técnicas. Mi pasión por el aprendizaje continuo y mi búsqueda constante de la excelencia me impulsan a mantenerme siempre a la vanguardia en el mundo del desarrollo de software.",
+      "title": "Software Engineer",
+      "description": "Soy un apasionado de la tecnología, eso me ha llevado a desempeñar labores de desarrolador front-end, desarrollador back-end, DevOps y en ocasiones ciertas tareas sobre arquitectura. Todo esto me proporciona una amplia visión de todo el ciclo de desarrollo, pudiendo así tomar mejores decisiones en lo que en realidad me apasiona: el desarrollo back-end.\n\nMi lenguaje preferido es Typescript, por lo tanto NodeJS es donde me siento más cómodo, aunque también tengo gran experiencia en Java y Python (actualmente estoy aprendiendo Go en mi tiempo libre).\n\nEn los últimos cuatro años he estado trabajando en proyectos internacionales, la mayoría de ellos con equipos distribuidos siguiendo una metodología ágil (Scrum sobre todo). En todos ellos, el idioma común es el ingles, por tanto tengo un buen nivel tanto oral como escrito. Como ejemplo, mi proyecto actual es para una empresa americana de ropa deportiva y mi equipo esta formado por colaboradores en distintas ciudades de España como colaboradores en Bélgica y Holanda.\n\nUna de mis contribuciones más destacadas fue al framework interno que usa mi actual compañía: devonfw.com. En el he diseñado la forma en al que todos los proyectos deben abordar las estrategias CI/CD. He hecho integraciones del framework con otras plataformas internas y de lo que me siento más orgullo es de haber diseñado la forma estandarizada de abordar los proyectos NodeJS (devon4node). Destacar que esta forma de abordar proyectos NodeJS se ha utilizado con éxito en diferentes proyectos de una forma satisfactoria.\n\nActualmente mi rol es más de DevOps: automatización de procesos, diseñar e implementar la infraestructura para AWS aplicando IaC con terraform, gestionar el cluster de Kubernets (EKS) y diseñar toda la estrategia de despliegues utilizando helm charts con argoCD. Esto lo compagino con desarrollo de APIs en Java utilizando Spring framework. Como apunte, este tipo de labores no son las que me gusta desempeñar el 100% de mi tiempo, ya que como mencione antes lo que más me gusta es el desarrollo back-end, pero mis inquietudes me han llevado a tener conocimientos de todo esto, y se han aprovechado de esto para colocarme en este rol.\n\nLo que me gustaría encontrar es un proyecto en el cual pueda poner a prueba mis habilidades y, sobre todo, seguir aprendiendo y mejorando todos los días.\n\nPor último hablar de mis aficiones, además de las comunes: videojuegos, series, etc. lo que más me gusta es aprender sobre tecnología. Pierdo más horas de las que me gustaría aprendiendo sobre nuevas tecnologías que no tienen nada que ver con lo que hago en mi día a día, como también mejorando mis habilidades en lo que ya se y domino. Nunca estoy contento con mis conocimientos y siempre trabajo duro (incluso en mi tiempo libre :S) para llegar a ser el mejor en lo que hago.",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
@@ -50,50 +50,19 @@
         },
         "roles": [
           {
-            "name": "Senior Software Engineer & Solutions Architect",
-            "startDate": "2021-06-01",
-            "challenges": [
-              {
-                "description": "Lideré el diseño e implementación de la arquitectura de microservicios para una plataforma de e-commerce de alto rendimiento"
-              },
-              {
-                "description": "Diseñé y desarrollé devon4node, un framework Node.js adoptado por toda la organización"
-              },
-              {
-                "description": "Implementé la estrategia de CI/CD y DevOps para múltiples proyectos internacionales"
-              }
-            ],
+            "name": "Software Engineer ",
+            "startDate": "2017-09-01",
             "competences": [
               {
-                "name": "TypeScript",
+                "name": "Helm",
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "NestJS",
-                "type": "technology"
-              },
-              {
-                "name": "Microservices",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
+                "name": "Kafka",
                 "type": "technology"
               },
               {
                 "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
                 "type": "technology"
               },
               {
@@ -101,95 +70,23 @@
                 "type": "technology"
               },
               {
-                "name": "PostgreSQL",
-                "type": "technology"
-              }
-            ]
-          },
-          {
-            "name": "DevOps Engineer",
-            "startDate": "2019-03-01",
-            "finishDate": "2021-06-01",
-            "challenges": [
-              {
-                "description": "Diseño e implementación de infraestructura cloud en AWS usando Infrastructure as Code con Terraform"
-              },
-              {
-                "description": "Gestión y optimización de clusters Kubernetes (EKS) para múltiples proyectos"
-              },
-              {
-                "description": "Implementación de pipelines de CI/CD automatizados usando Jenkins, Helm y ArgoCD"
-              },
-              {
-                "description": "Desarrollo de soluciones para monitorización y observabilidad de microservicios"
-              }
-            ],
-            "competences": [
-              {
-                "name": "AWS",
+                "name": "Nest",
                 "type": "technology"
               },
               {
-                "name": "Terraform",
+                "name": "NextJS",
                 "type": "technology"
               },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Helm",
-                "type": "technology"
-              },
-              {
-                "name": "ArgoCD",
-                "type": "technology"
-              },
-              {
-                "name": "Infrastructure as Code",
-                "type": "technology"
-              },
-              {
-                "name": "GitHub Actions",
-                "type": "technology"
-              }
-            ]
-          },
-          {
-            "name": "Software Engineer",
-            "startDate": "2017-09-01",
-            "finishDate": "2019-03-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de APIs RESTful y aplicaciones web utilizando Node.js y Java"
-              },
-              {
-                "description": "Implementación de soluciones cloud-native en AWS"
-              }
-            ],
-            "competences": [
               {
                 "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Java",
+                "name": "Sass",
                 "type": "technology"
               },
               {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -203,140 +100,140 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Full professional proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Native or bilingual proficiency"
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Node.js",
+          "name": "API",
           "type": "technology"
-        },
-        "level": "Expert"
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        },
-        "level": "Expert"
-      },
-      {
-        "skill": {
-          "name": "NestJS",
-          "type": "technology"
-        },
-        "level": "Expert"
-      },
-      {
-        "skill": {
-          "name": "Microservices Architecture",
-          "type": "technology"
-        },
-        "level": "Expert"
-      },
-      {
-        "skill": {
-          "name": "Event-Driven Architecture",
-          "type": "technology"
-        },
-        "level": "Expert"
-      },
-      {
-        "skill": {
-          "name": "CQRS",
-          "type": "technology"
-        },
-        "level": "Expert"
+        }
       },
       {
         "skill": {
           "name": "AWS",
           "type": "technology"
-        },
-        "level": "Advanced"
+        }
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "AWS EKS",
           "type": "technology"
-        },
-        "level": "Advanced"
+        }
       },
       {
         "skill": {
-          "name": "DevOps",
+          "name": "Ansible",
           "type": "technology"
-        },
-        "level": "Advanced"
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        },
-        "level": "Advanced"
-      },
-      {
-        "skill": {
-          "name": "CI/CD",
-          "type": "technology"
-        },
-        "level": "Advanced"
-      },
-      {
-        "skill": {
-          "name": "Java",
-          "type": "technology"
-        },
-        "level": "Advanced"
-      },
-      {
-        "skill": {
-          "name": "Spring Framework",
-          "type": "technology"
-        },
-        "level": "Advanced"
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        },
-        "level": "Intermediate"
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        },
-        "level": "Advanced"
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        },
-        "level": "Advanced"
+        }
       },
       {
         "skill": {
           "name": "Docker",
           "type": "technology"
-        },
-        "level": "Advanced"
+        }
       },
       {
         "skill": {
-          "name": "Test-Driven Development",
+          "name": "Helm",
           "type": "technology"
-        },
-        "level": "Advanced"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -381,37 +278,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Liderazgo Técnico",
+          "name": "Aprendizaje Continuo",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Comunicación",
+          "name": "Pensamiento creativo",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Resolución de Problemas",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pensamiento Creativo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trabajo en Equipo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mentoría",
+          "name": "Visión crítica",
           "type": "practice"
         }
       }
@@ -432,37 +311,43 @@
           "URL": "https://twitter.com/lllllMrPKlllll",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "dario.rg.1990@gmail.com"
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Node.js",
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Nest",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
           "type": "technology"
         },
         {
           "name": "TypeScript",
           "type": "technology"
-        },
+        }
+      ],
+      "discardedCompetences": [
         {
-          "name": "Microservices",
+          "name": "Java",
           "type": "technology"
         },
         {
-          "name": "Cloud Architecture",
-          "type": "technology"
-        },
-        {
-          "name": "Event-Driven Architecture",
+          "name": "Oracle",
           "type": "technology"
         }
       ],
       "preferredRoles": [
-        "Senior Backend Developer",
-        "Solutions Architect",
+        "Backend Developer",
         "Tech Lead"
       ]
     },
