@@ -55,6 +55,73 @@
             "challenges": [
               {
                 "description": "Lideré el diseño e implementación de la arquitectura de microservicios para una plataforma de e-commerce de alto rendimiento"
+              },
+              {
+                "description": "Diseñé y desarrollé devon4node, un framework Node.js adoptado por toda la organización"
+              },
+              {
+                "description": "Implementé la estrategia de CI/CD y DevOps para múltiples proyectos internacionales"
+              }
+            ],
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "NestJS",
+                "type": "technology"
+              },
+              {
+                "name": "Microservices",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              }
+            ]
+          },
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2019-03-01",
+            "finishDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "Diseño e implementación de infraestructura cloud en AWS usando Infrastructure as Code con Terraform"
+              },
+              {
+                "description": "Gestión y optimización de clusters Kubernetes (EKS) para múltiples proyectos"
+              },
+              {
+                "description": "Implementación de pipelines de CI/CD automatizados usando Jenkins, Helm y ArgoCD"
+              },
+              {
+                "description": "Desarrollo de soluciones para monitorización y observabilidad de microservicios"
               }
             ],
             "competences": [
