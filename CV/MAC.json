@@ -34,10 +34,6 @@
         "type": "other",
         "URL": "https://www.dario-rodriguez.me/",
         "description": "Web Personal"
-      },
-      {
-        "type": "other",
-        "URL": "https://dario-rodriguez.me/"
       }
     ]
   },
@@ -143,19 +139,11 @@
                 "type": "technology"
               },
               {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
                 "name": "Docker",
                 "type": "technology"
               },
               {
-                "name": "Jenkins",
+                "name": "GitHub Actions",
                 "type": "technology"
               },
               {
@@ -163,15 +151,15 @@
                 "type": "technology"
               },
               {
-                "name": "ArgoCD",
+                "name": "Jenkins",
                 "type": "technology"
               },
               {
-                "name": "Infrastructure as Code",
+                "name": "Kubernetes",
                 "type": "technology"
               },
               {
-                "name": "GitHub Actions",
+                "name": "Terraform",
                 "type": "technology"
               }
             ]
@@ -199,7 +187,7 @@
             ],
             "competences": [
               {
-                "name": "NodeJS",
+                "name": "AWS",
                 "type": "technology"
               },
               {
@@ -207,11 +195,11 @@
                 "type": "technology"
               },
               {
-                "name": "Spring Boot",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "AWS",
+                "name": "Spring Boot",
                 "type": "technology"
               }
             ]
