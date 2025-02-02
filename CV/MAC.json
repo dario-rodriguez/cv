@@ -117,6 +117,106 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/01/00481d0c-81e7-4ed3-842b-cb8393973c4f_capgemini-emblem.png",
+            "alt": "Capgemini-Emblem.png"
+          },
+          "URL": "https://www.capgemini.com/"
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2019-03-01",
+            "finishDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "Diseño e implementación de infraestructura cloud en AWS usando Infrastructure as Code con Terraform.\n\nGestión y optimización de clusters Kubernetes (EKS) para múltiples proyectos.\n\nImplementación de pipelines de CI/CD automatizados usando Jenkins, Helm y ArgoCD\n\nDesarrollo de soluciones para monitorización y observabilidad de microservicios"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Helm",
+                "type": "technology"
+              },
+              {
+                "name": "ArgoCD",
+                "type": "technology"
+              },
+              {
+                "name": "Infrastructure as Code",
+                "type": "technology"
+              },
+              {
+                "name": "GitHub Actions",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/01/00481d0c-81e7-4ed3-842b-cb8393973c4f_capgemini-emblem.png",
+            "alt": "Capgemini-Emblem.png"
+          },
+          "URL": "https://www.capgemini.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2017-09-01",
+            "finishDate": "2019-03-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de APIs RESTful y aplicaciones web utilizando Node.js y Java\n\nImplementación de soluciones cloud-native en AWS"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
